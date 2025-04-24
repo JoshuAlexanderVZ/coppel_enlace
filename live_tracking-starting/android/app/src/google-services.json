@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1050779493134",
+    "project_id": "coppelenlace-b3a0e",
+    "storage_bucket": "coppelenlace-b3a0e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050779493134:android:49c16e6dbb0eee732cad5f",
+        "android_client_info": {
+          "package_name": "com.example.live_tracking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR_kzxxYzJ1TRaA9S9tdxYVUWkqU265qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
